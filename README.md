@@ -19,7 +19,8 @@ Ce projet m’a permis de consolider mes compétences en programmation Python, c
 
 ## Exemple d’utilisation
 
-Appuyez sur la touche A pour commencer à jouer. Utilisez les flèches pour déplacer le joueur et éviter les obstacles. À la fin, un écran affiche le nombre total de tentatives, appuyez sur A pour rejouer ou Espace pour quitter.
+Appuyez sur la touche A pour commencer à jouer. Utilisez les flèches pour déplacer le joueur en évitant les obstacles pour atteindre la zone de fin.
+Une fois tous les niveaux complétés, un écran affiche le nombre total de tentatives, appuyez sur A pour rejouer ou Espace pour quitter.
 
 ---
 
@@ -35,7 +36,7 @@ maze/
 
 ## Installation et exécution
 
-pip install pygame    # Installer pygame si nécessaire
+pip install pygame           # Installer pygame si nécessaire
 
 python main.py
 
