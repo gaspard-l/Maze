@@ -33,7 +33,7 @@ maze/
 
 ---
 
-##Installation et exécution
+## Installation et exécution
 
 pip install pygame    #Installer pygame si nécessaire
 
