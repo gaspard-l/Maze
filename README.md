@@ -35,7 +35,7 @@ maze/
 
 ## Installation et exécution
 
-pip install pygame    #Installer pygame si nécessaire
+pip install pygame    # Installer pygame si nécessaire
 
 python main.py
 
